@@ -1,0 +1,30 @@
+#__PrivCrochet_version:1
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 458,279
+__PrivCrochet_tags: 
+title: Start
+---
+<<bg(0)>>
+Main Character: And so it begins...where do you wish to go?
+<<jump Option A>>
+-> The Library.  
+   Main Character: Studious, aren't we?
+
+<<jump Option B>>
+-> The Hedge Maze. 
+   Main Character: Let's explore!
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 539,-156
+__PrivCrochet_tags: 
+title: Option A
+---
+Empty Text
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 759,287
+__PrivCrochet_tags: 
+title: Option B
+---
+Empty Text
+===
